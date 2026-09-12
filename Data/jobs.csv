@@ -1,0 +1,11 @@
+job_title,skills,degree,category,learning_path
+Python Developer,"Python,SQL,Git,APIs",BSc Computer Science,Software,"Learn Python, Learn REST APIs, Build a Python API project"
+Data Analyst,"Python,SQL,Excel,Power BI",BSc Computer Science,Data,"Learn Python, Learn Excel, Learn Power BI, Practice SQL"
+Machine Learning Engineer,"Python,SQL,Machine Learning,Pandas,NumPy,Scikit-learn",BSc Computer Science,AI,"Learn Python, Learn Machine Learning, Learn Pandas and NumPy, Build an ML project"
+Web Developer,"HTML,CSS,JavaScript,Git",BSc Computer Science,Web Development,"Learn HTML, Learn CSS, Learn JavaScript, Build a responsive website"
+Java Developer,"Java,SQL,Git,Spring Boot",BSc Computer Science,Software,"Learn Java, Learn Spring Boot, Build a Spring Boot project"
+Data Scientist,"Python,SQL,Machine Learning,Pandas,NumPy,Statistics",BSc Computer Science,AI,"Learn Python, Learn Statistics, Learn Machine Learning, Build a Data Science project"
+Backend Developer,"Python,Java,SQL,APIs,Git",BSc Computer Science,Software,"Learn Python or Java, Learn REST APIs, Learn SQL, Build a backend project"
+Frontend Developer,"HTML,CSS,JavaScript,React,Git",BSc Computer Science,Web Development,"Learn HTML, Learn CSS, Learn JavaScript, Learn React, Build a frontend project"
+Cybersecurity Analyst,"Python,Linux,Networking,Security",BSc Computer Science,Cybersecurity,"Learn Python, Learn Linux, Learn Networking, Learn Cybersecurity basics"
+Cloud Engineer,"Python,Linux,AWS,Docker,Git",BSc Computer Science,Cloud,"Learn Python, Learn Linux, Learn AWS, Learn Docker, Build a cloud project"
